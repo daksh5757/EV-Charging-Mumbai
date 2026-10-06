@@ -1,0 +1,36 @@
+substation_name,utility,voltage_level_kv,ward_name,latitude,longitude
+Dharavi Receiving Station,Tata Power / MSETCL,220/110,G/N,19.0434,72.8571
+Bhandup EHV Substation,MSETCL,220/33,S,19.1511,72.9372
+Trombay Generating & Substation,Tata Power,220/110,M/E,19.0028,72.9024
+Mahalaxmi Receiving Station,BEST / Tata Power,110/33,G/S,18.9827,72.8242
+Backbay Substation,BEST / Tata Power,110/33,A,18.9218,72.8214
+Nariman Point Substation,BEST,33/11,A,18.926,72.8235
+Carnac Bunder Substation,BEST,110/33,B,18.9482,72.8436
+Grant Road Receiving Station,BEST,33/11,D,18.9631,72.8164
+Parel Substation,Tata Power,110/33,F/S,18.9984,72.8398
+Wadala Receiving Station,BEST,110/33,F/N,19.0189,72.8583
+Worli Substation,Tata Power / BEST,110/33,G/S,19.0145,72.8182
+Bandra Kurla Complex (BKC) Substation,Adani Electricity,33/11,H/E,19.0662,72.8681
+Kalanagar Substation Bandra East,Adani Electricity,33/11,H/E,19.0583,72.8519
+Bandra West Substation,Tata Power,33/11,H/W,19.0596,72.8361
+Khar Substation,Adani Electricity,33/11,H/W,19.0701,72.8354
+Santacruz East Substation,Adani Electricity,33/11,H/E,19.0815,72.8524
+Andheri East Substation (MIDC),Adani Electricity,33/11,K/E,19.1205,72.8692
+Versova Receiving Station,Adani Electricity / MSETCL,220/33,K/W,19.1352,72.8163
+Jogeshwari Substation,Adani Electricity,33/11,K/E,19.1368,72.8569
+Goregaon West Substation,Adani Electricity,33/11,P/S,19.1645,72.8392
+Aarey Colony Substation,MSETCL,220/33,P/S,19.1558,72.8784
+Malad West Substation,Adani Electricity,33/11,P/N,19.1864,72.8421
+Malad East Substation,Adani Electricity,33/11,P/N,19.1822,72.8625
+Kandivali West Substation,Adani Electricity,33/11,R/S,19.2075,72.8359
+Borivali West Substation,MSETCL / Adani,220/33,R/C,19.2312,72.8567
+Dahisar East Substation,Adani Electricity,33/11,R/N,19.2554,72.8653
+Kurla West Substation,Tata Power,33/11,L,19.0726,72.8795
+Saki Naka Substation,Adani Electricity,33/11,L,19.1031,72.8872
+Ghatkopar East Substation,Tata Power,33/11,N,19.0858,72.9124
+Vikhroli Receiving Station,Tata Power / MSETCL,220/33,S,19.1112,72.9304
+Kanjurmarg Substation,MSETCL,220/33,S,19.1325,72.9341
+Mulund West Substation,MSETCL / Tata Power,110/33,T,19.1762,72.9468
+Chembur Receiving Station,Tata Power,110/33,M/W,19.0522,72.8994
+Govandi Substation,Tata Power,33/11,M/E,19.056,72.9152
+Mankhurd Substation,Tata Power,33/11,M/E,19.0489,72.9317
